@@ -1,1 +1,2 @@
-Fun fact: people think that I'm from Thailand but I'm so mexican!
+I was given read/write access to  Barbara's repository as a collaborator. I cloned 
+the repo and made changes to the original file.
